@@ -1,2 +1,4 @@
 # Property-Rate-Prediction
-Analyzed the data for the taxi system in New York City on a Hadoop cluster using HiveSQL. Derived insights such as the most preferred payment method (credit card), and the most likely range of tips given by customers to the driver ($0 - $5.00)
+Built a machine learning model to find the factors influencing house prices in the USA.
+Incorporated cross validation with Ridge and Lasso regularization to determine the factors impacting the
+price. Achieved AUC scores of 91.1% and 91.3% for ridge and lasso regularizations, respectively.
